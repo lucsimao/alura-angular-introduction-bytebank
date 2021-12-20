@@ -2,7 +2,23 @@
 
 This project is the artifact from course [Angular: Começando com o framework](https://cursos.alura.com.br/course/angular-comecando-framework)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Content:
+
+- Angular Introduction
+  - Module
+  - Component
+  - Service
+- Date Pipe
+- Output and Input
+- Injectable
+- Data Binding
+  - Two Way Data Bind [()]
+  - Property Bind []
+  - Event Binding ()
+- Interpolation
+- NgFor
+- NgIf
+- Routing
 
 ## Development server
 
